@@ -8,7 +8,7 @@ img {
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    padding-top: 100px;
+    padding: 60px;
 }
 
 p {
@@ -31,7 +31,7 @@ h1 {
     cursor: pointer;
 }
 
-.links {
+.link {
     float: left;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -40,6 +40,6 @@ h1 {
     font-size: 20px;
 }
 
-.links:hover {
+.link:hover {
     background-color: #48bdf0;
 }
